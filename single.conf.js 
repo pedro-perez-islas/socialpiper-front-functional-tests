@@ -1,0 +1,10 @@
+exports.config = {
+    user: 'testing1749',
+    key: 'eE3ep3ehxLp1ydbB8Cxq',
+    browserstackLocal: true,
+
+  capabilities: [{
+    browser: 'chrome',
+    name: 'Bstack-[WebdriverIO] Sample Test'
+  }]
+}
